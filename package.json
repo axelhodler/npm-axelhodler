@@ -1,0 +1,14 @@
+{
+  "name": "axelhodler",
+  "version": "1.0.1",
+  "description": "me",
+  "author": "Axel Hodler",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelhodler/npm-axelhodler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/axelhodler/npm-axelhodler/issues"
+  }
+}
